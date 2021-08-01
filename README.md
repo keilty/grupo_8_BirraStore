@@ -23,3 +23,5 @@ del desarrollo web, tanto el front-end como el back-end. Bueno, puede que
 un poquito más el back, pero con las herramientas modernas para el front
 como react.js, hoy por hoy, para mí ambos frentes son igual de interesantes.
 Como pasatiempos, me gusta hacer senderismo, leer sobre autos y economía.
+
+**Ariana Dominguez**: 20 años,emprendedora,estudiante de contador publico y desarrollo Web Full Stack en digital house con fundacion formar.
