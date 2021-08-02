@@ -27,3 +27,5 @@ Como pasatiempos, me gusta hacer senderismo, leer sobre autos y economía.
 **Ariana Dominguez**: 20 años,emprendedora,estudiante de contador publico y desarrollo Web Full Stack en digital house con fundacion formar.
 
 **Javier Palomo**: 27 años,emprendedor,programación Desarrollo WebFull Stack en digital house con fundacion formar. Tengo una actitud de curiosidad.
+
+**Nicolas Acosta**: 20 años, empleado, programación Desarrollo WebFull Stack en digital house con fundacion formar.
