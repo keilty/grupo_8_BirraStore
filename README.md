@@ -8,13 +8,14 @@ que vivan en caba y el conurbano. Para mayor comodidad de los clientes, nuestros
 
 ### Sitios web de referentes del mercado:
 
-- [Antares](https://www.cervezaantares.com/)
-- [Tienda de Antares](https://tienda.cervezaantares.com/)
-- [Craft Society](https://www.craftsociety.com.ar/)
-- [Bierful](https://tienda.bierful.com/)
-- [Cervelar](https://cervelar.com.ar/)
-- [Vinos y spirits](https://www.vinosyspirits.com/)
-- [The whisky exchange](https://www.thewhiskyexchange.com/)
+ Utilizamos el sitio web de [Antares](https://www.cervezaantares.com/) como inspiracion para el menu de la sección Home, con imágenes pegadas entre sí.
+ De la [Tienda de Antares](https://tienda.cervezaantares.com/) utilizamos los contenedores de envíos y compra segura.
+  Del sitio [Craft Society](https://www.craftsociety.com.ar/) utilizamos el banner slider con ofertas en lo que sería la sección hero.
+ [Bierful](https://tienda.bierful.com/)
+ [Cervelar](https://cervelar.com.ar/)
+ [Vinos y spirits](https://www.vinosyspirits.com/)
+ [The whisky exchange](https://www.thewhiskyexchange.com/)
+ Del sitio de [Jack Daniel's] (https://https://www.jackdaniels.com/es) utilizamos el el background-color.
 
 ### Integrantes del grupo de desarrollo:
 
