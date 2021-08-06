@@ -3,7 +3,7 @@
 ![logo (1)](https://user-images.githubusercontent.com/87153984/128464407-fafe457c-6440-463d-9633-bfc81168d8b6.png)
 
 > ***El sitio de ecommerce realizado especialmente para los amantes de la cerveza se especializá en la venta de cervezas artesanales con una gran variedad de marcas,excelente calidad y al mejor precio del mercado.
-El público objetivo del ecommerce son hombres y mujeres de entre 18 y 35 años
+El público objetivo son hombres y mujeres de entre 18 y 35 años
 que vivan en caba y el conurbano. Para mayor comodidad de los clientes, nuestros servicios incluyen envios a domicilio para poder adquirirlos desde sus hogares.*** 
 
 ### Sitios web de referentes del mercado:
