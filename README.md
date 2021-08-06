@@ -1,10 +1,11 @@
-# Archivo readme ecommerce birrastore
+# ***¡Te damos la bienvenida a BIRRASTORE!*** :beers:
+## ***para que nunca falte una buena birra...***
 
-El sitio de ecommerce se especializará en la venta y entrega a domicilio
-de cervezas artesanales de distintas marcas de nicho.
-El público objetivo del ecommerce son hombres y mujeres de entre 20 y 35 años
-que vivan en caba y el conurbano. Son el público mas acostumbrado a la presencia
-de cervecerias artesanales y a recibir productos a domicilio.
+<img src="/extras/logo(1).png" width="300px">
+
+> ***El sitio de ecommerce realizado especialmente para los amantes de la cerveza se especializá en la venta de cervezas artesanales con una gran variedad de marcas,excelente calidad y al mejor precio del mercado.
+El público objetivo del ecommerce son hombres y mujeres de entre 18 y 35 años
+que vivan en caba y el conurbano. Para mayor comodidad de los clientes, nuestros servicios incluyen envios a domicilio para poder adquirirlos desde sus hogares.*** 
 
 ### Sitios web de referentes del mercado:
 
