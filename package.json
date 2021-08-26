@@ -1,0 +1,23 @@
+{
+  "name": "grupo_8_birrastore",
+  "version": "1.0.0",
+  "description": "![logo (1)](https://user-images.githubusercontent.com/87153984/128464407-fafe457c-6440-463d-9633-bfc81168d8b6.png)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArianaABIIGAIL/grupo_8_birrastore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArianaABIIGAIL/grupo_8_birrastore/issues"
+  },
+  "homepage": "https://github.com/ArianaABIIGAIL/grupo_8_birrastore#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
