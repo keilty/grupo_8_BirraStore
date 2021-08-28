@@ -1,5 +1,37 @@
-
-
+/* Navbar */
 .navbar {
-  background-color: #262626;
+  display: flex;
+  background: var(--beige);
+  height: 60px;
+  width: 100%;
+  top: 0px;
+  padding: 0 30px;
 }
+
+.navbar .beers-ul {
+  align-items: center;
+  justify-content: left;
+}
+
+.log-cart-ul {
+  align-items: center;
+  justify-content: right;
+}
+
+
+ 
+ 
+ 
+ /* NAVBAR DE KULA
+  // Navbar
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  background: #eaf2ca;
+  height: 55px;
+  width: 100%;
+  top: 0px;
+  padding: 0 30px; */
+
