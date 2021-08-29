@@ -1,7 +1,7 @@
 /* Navbar */
 .navbar {
   display: flex;
-  background: var(--beige);
+  background: var(--black);
   height: 60px;
   width: 100%;
   top: 0px;
