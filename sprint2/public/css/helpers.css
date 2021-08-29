@@ -24,3 +24,14 @@ body {
 }
 
 
+/* LINKS */
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: inherit;
+}
+
+
+
