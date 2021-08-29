@@ -1,12 +1,13 @@
 .home-footer {
   display: flex;
   background: var(--beige);
-  height: 60px;
+  height: 70px;
   width: 100%;
   bottom: 0px;
-  padding: 0 30px;
+  padding: 0;
+  justify-content: center;
 }
 
-.home-footer .footer-ul {
-  display: flex;
+.home-footer .footer-ul li {
+  padding: 0 3vw;
 }

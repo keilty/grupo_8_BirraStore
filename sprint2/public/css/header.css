@@ -2,7 +2,7 @@
 .navbar {
   display: flex;
   background: var(--black);
-  height: 60px;
+  height: 70px;
   width: 100%;
   top: 0px;
   padding: 0;
@@ -11,17 +11,19 @@
   
 }
 
-/* .beers-ul {
-  
+.beers-ul li {
+  padding: 0 8px;
 }
 
-.nav-logo {
-  
-}
-
-.log-cart-ul {
+/* .nav-logo {
   
 } */
+
+.log-cart-ul li {
+  padding: 0 15px;
+}
+
+
 
 
  
