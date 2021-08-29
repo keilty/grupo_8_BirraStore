@@ -17,9 +17,10 @@ body {
 }
 
 /* HELPER CLASSES */
-.header-ul {
+.general-ul {
   display: flex;
   list-style: none;
+  align-items: center;
 }
 
 

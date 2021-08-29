@@ -8,13 +8,11 @@
   padding: 0 30px;
 }
 
-.navbar .beers-ul {
-  align-items: center;
+.beers-ul {
   justify-content: left;
 }
 
 .log-cart-ul {
-  align-items: center;
   justify-content: right;
 }
 
