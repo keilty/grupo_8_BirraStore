@@ -5,16 +5,23 @@
   height: 60px;
   width: 100%;
   top: 0px;
-  padding: 0 30px;
+  padding: 0;
+  align-items: center;
+  justify-content: space-around;
+  
 }
 
-.beers-ul {
-  justify-content: left;
+/* .beers-ul {
+  
+}
+
+.nav-logo {
+  
 }
 
 .log-cart-ul {
-  justify-content: right;
-}
+  
+} */
 
 
  
