@@ -1,3 +1,4 @@
+/* CART HEADER */
 .cart-body {
   background-color: black;
 }
@@ -13,23 +14,62 @@
   justify-content: center;
 }
 
+/* CART ARTICLE */
+
+
+.product-box {
+  width: 100%;
+  padding: 10px 10px;
+  display: flex;
+}
+
+/* --------------------------------------- */
+
+.square-img-container {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  border-radius: 5px;
+}
+
+.square-img {
+  width: 100%;
+  border-radius: 5px;
+}
+
 .circle {
+  position: absolute;
   height: 20px;
   width: 20px;
-  margin-left: 90px;
-  margin-bottom: 50px;
   background-color: rgb(184, 182, 182);
   border: 1px solid white;
   border-radius: 50%;
-  display: inline-block;
+  margin-left: 40px;
+  margin-top: -10px; 
+  display: flex;
 }
 
-.square {
+.circle-content {
+  padding-left: 6px;
+}
+
+/* ------------------------------------ */
+.description {
+  color: white;
+  align-self: center;
+}
+
+.price {
+  color: white;
+}
+
+
+
+
+/* .square {
   height: 120px;
   width: 120px;
-  background-image: url("../images/cerveza-peñon.jpg"); 
-  background-size: 80%;
   border: 1px solid white;
   border-radius: 5px;
   display: inline-block;
-}
+} */
