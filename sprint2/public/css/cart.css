@@ -32,6 +32,7 @@ hr {
 
 .input-calc {
   width: 50px;
+  border-radius: 5px;
 }
 
 /* CART ARTICLE */
@@ -127,6 +128,7 @@ hr {
 }
 
 .buy {
+  margin-top: 20px;
   display: flex;
   justify-content: center;
   padding-bottom: 20px;
