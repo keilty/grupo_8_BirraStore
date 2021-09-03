@@ -4,14 +4,13 @@
 
 .main-image {
   display: block;
-  max-width: 100%;
-  
+  max-width: 100%; 
 }
 
 .img-box {
   position: relative;
   text-align: center;
-  color: white;
+  color: var(--white);
 }
 
 .h2-home {
@@ -19,6 +18,19 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  background-color: rgba(180, 180, 180, 0.6);
+  border-radius: 20px; 
+  border-style: none;
 }
 
+/* MEDIA QUERIES quiero aplicarlas, con grid mas adelante
+@media (min-width: 1000px) {
+  .main-image {
+    height: 50vh;
+  }
+
+  .our-business {
+    display: flex;
+  }
+} */
 

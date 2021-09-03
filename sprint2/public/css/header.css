@@ -15,9 +15,6 @@
   padding: 0 0px;
 }
 
-/* .nav-logo {
-  
-} */
 
 .log-cart-ul li {
   padding: 0 5px;
@@ -26,19 +23,34 @@
 
 
 
+/* MEDIA QUERIES */
+@media (min-width: 550px) {
+  .navbar {
+    display: flex;
+    background: var(--black);
+    height: 80px;
+    width: 100%;
+    top: 0px;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+
+  .beers-ul li {
+    padding: 0 10px;
+  }
+  
+  
+  .log-cart-ul li {
+    padding: 0 20px;
+  }
+
+} 
+
+
+
+
  
- 
- 
- /* NAVBAR DE KULA
-  // Navbar
-.navbar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  position: fixed;
-  background: #eaf2ca;
-  height: 55px;
-  width: 100%;
-  top: 0px;
-  padding: 0 30px; */
+
 

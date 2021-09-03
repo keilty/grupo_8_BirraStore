@@ -3,20 +3,41 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #404040;  
+  background-color: #404040; 
+  font-family: 'Poppins', sans-serif; 
 }
 
-/* COLORS */
 
+/* COLORS */
 :root {
   --black: #000000;
   --darkGrey: #404040;
-  --ggrey: #C4C4C4;
-  --light: #ffffff;
-  --beige: #baab8f;
+  --grey: #C4C4C4;
+  --white: #ffffff;
+  --beige: #baab8f;  
 }
 
+
 /* HELPER CLASSES */
+p {
+  font-size: 14px;
+}
+
+.btn-light {
+  background: var(--beige);
+  border: none;
+  padding: 5px 8px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  border-radius: 5px;
+}
+
+.btn-light:hover {
+  opacity: 0.9;
+  color: var(--white);;
+  transition: 0.2s;
+}
+
 .general-ul {
   display: flex;
   list-style: none;
