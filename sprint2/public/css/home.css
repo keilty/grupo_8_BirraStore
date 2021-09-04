@@ -21,6 +21,7 @@
   background-color: rgba(180, 180, 180, 0.6);
   border-radius: 20px; 
   border-style: none;
+  padding: 5px 10px;
 }
 
 /* MEDIA QUERIES quiero aplicarlas, con grid mas adelante
@@ -33,4 +34,5 @@
     display: flex;
   }
 } */
+
 
