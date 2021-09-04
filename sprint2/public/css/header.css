@@ -1,5 +1,56 @@
-
-
+/* Navbar */
 .navbar {
-  background-color: #262626;
+  display: flex;
+  background: var(--black);
+  height: 70px;
+  width: 100%;
+  top: 0px;
+  padding: 10px 0;
+  align-items: center;
+  justify-content: center;
+  
 }
+
+.beers-ul li {
+  padding: 0 0px;
+}
+
+
+.log-cart-ul li {
+  padding: 0 5px;
+}
+
+
+
+
+/* MEDIA QUERIES */
+@media (min-width: 550px) {
+  .navbar {
+    display: flex;
+    background: var(--black);
+    height: 80px;
+    width: 100%;
+    top: 0px;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+
+  .beers-ul li {
+    padding: 0 10px;
+  }
+  
+  
+  .log-cart-ul li {
+    padding: 0 20px;
+  }
+
+} 
+
+
+
+
+ 
+
+
