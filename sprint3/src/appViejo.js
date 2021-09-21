@@ -1,3 +1,5 @@
+// HAY QUE PARAMETRIZAR LAS RUTAS!!!
+
 const express = require('express');
 const app = express();
 const path = require('path');
@@ -10,6 +12,10 @@ app.get('/', (req, res) => {
 
 app.get('/carrito', (req, res) => {
   res.sendFile(path.join(__dirname, 'views', 'cart.html'));
+});
+
+app.get('/detalle-producto', (req, res) => {
+  res.sendFile(path.join(__dirname, 'views', 'productDetail.html'));
 });
 
 app.get('/register', (req, res) => {
