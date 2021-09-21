@@ -1,6 +1,6 @@
 /* CART HEADER */
 .text-light {
-  color: white;
+  color: var(--black);
 }
 
 .cart-body {
