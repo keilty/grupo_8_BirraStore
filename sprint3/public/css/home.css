@@ -1,0 +1,38 @@
+.main-section {
+  display: grid;
+}
+
+.main-image {
+  display: block;
+  max-width: 100%; 
+}
+
+.img-box {
+  position: relative;
+  text-align: center;
+  color: var(--white);
+}
+
+.h2-home {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(180, 180, 180, 0.6);
+  border-radius: 20px; 
+  border-style: none;
+  padding: 5px 10px;
+}
+
+/* MEDIA QUERIES quiero aplicarlas, con grid mas adelante
+@media (min-width: 1000px) {
+  .main-image {
+    height: 50vh;
+  }
+
+  .our-business {
+    display: flex;
+  }
+} */
+
+

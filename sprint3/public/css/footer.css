@@ -1,0 +1,13 @@
+.home-footer {
+  display: flex;
+  background: var(--beige);
+  height: 70px;
+  width: 100%;
+  bottom: 0px;
+  padding: 0;
+  justify-content: center;
+}
+
+.home-footer .footer-ul li {
+  padding: 0 3vw;
+}
