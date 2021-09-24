@@ -1,0 +1,10 @@
+.create h1, .create label{
+    color: white;
+}
+.create{
+    margin: o;
+    padding: 0;
+    background-image: url(/images/portada.jpg);
+    background-size: cover;
+    height: 100vh;
+}

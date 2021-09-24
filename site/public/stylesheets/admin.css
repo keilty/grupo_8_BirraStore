@@ -1,0 +1,10 @@
+.admin{
+    margin: o;
+    padding: 0;
+    background-image: url(/images/imagen1.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.admin h1{
+    color: white;
+}
