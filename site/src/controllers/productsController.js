@@ -1,9 +1,9 @@
 const productsController = {
     cart : (req, res) => {
-        res.render('cart', { title: 'Carrito de compras' });
+        res.render('products/cart', { title: 'Carrito de compras' });
       },
     productDetail : (req, res) => {
-        res.render('productDetail', { title: 'Detalle de producto' });
+        res.render('products/productDetail', { title: 'Detalle de producto' });
       }
     };
 
