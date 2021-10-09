@@ -29,3 +29,9 @@ Como pasatiempos, me gusta hacer senderismo, leer sobre autos y economía.
 
 **Micaela Desireé Gutierrez**:
 24 años, estudiante de Desarrollo Web Full Stack con Fundación Formar y Digital House, reside en Castelar - Pcia de Buenos Aires.
+
+## -Tablero del proyecto:
+
+[Trello][página5]
+
+[página5]: https://trello.com/b/gVnEmo0b/equipon8
